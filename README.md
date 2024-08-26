@@ -50,6 +50,10 @@ User fills the signup form → Data sent to signup.php → PHP stores data into 
 User Login:
 User fills the login form → Data sent to login.php → PHP checks the database for matching credentials → Success or error message is displayed.
 
+OUTPUT:
+![Login   Signup - Google Chrome 26-08-2024 20_30_51](https://github.com/user-attachments/assets/9b8c76a2-25df-4307-ace9-2aef74120399)
+
+
 SUMMARY:
 This task ensures that user data is securely handled and managed across the frontend and backend components, with proper integration between the client-side interface and the server-side logic.
 
